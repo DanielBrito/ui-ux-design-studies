@@ -1,4 +1,4 @@
-# 👥 Research on UI/UX Design
+# 👥 UI/UX Design
 
 This content covers different aspects of several concepts, resources and tools related to UI/UX Design from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
@@ -8,6 +8,10 @@ This content covers different aspects of several concepts, resources and tools r
 - Design Thinking
 - Design System
 - Design Patterns
+
+## :rocket: Personal Projects
+
+- [PolymApp](https://github.com/DanielBrito/polymapp)
 
 ## 📚 Interesting Books
 
