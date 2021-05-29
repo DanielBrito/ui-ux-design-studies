@@ -19,6 +19,9 @@ This content covers different aspects of several concepts, resources and tools r
 
 ## 🧰 Useful Resources
 
+- [Design Resources for Developers](https://github.com/DanielBrito/design-resources-for-developers)
 - [Awesome Web Design](https://github.com/DanielBrito/awesome-web-design)
 - [Curated List for UI/UX Designers](https://github.com/gregjw/ui-ux)
 - [Design Patterns](http://ui-patterns.com/patterns)
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+
