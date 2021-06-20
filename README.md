@@ -6,7 +6,7 @@ This content covers different aspects of several concepts, resources and tools r
 
 - Equity, Diversity and Inclusion
 - Design Thinking
-- Design System
+- Design Systems
 - Design Patterns
 
 ## :rocket: Personal Projects
@@ -16,10 +16,15 @@ This content covers different aspects of several concepts, resources and tools r
 ## 📚 Interesting Books
 
 - [Don't Make Me Think (Steve Krug)](https://www.amazon.com.br/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG)
+- [User Centered Design (Travis Lowdermilk)](https://www.amazon.com/User-Centered-Design-Developers-User-Friendly-Applications/dp/1449359809)
 
 ## 🛠️ Tools
 
 - [Figma](https://www.figma.com)
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+- [Markup Validation Service](https://validator.w3.org/)
+- [Coblis - Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 
 ## 🧰 Useful Resources
 
@@ -27,5 +32,6 @@ This content covers different aspects of several concepts, resources and tools r
 - [Awesome Web Design](https://github.com/DanielBrito/awesome-web-design)
 - [Curated List for UI/UX Designers](https://github.com/gregjw/ui-ux)
 - [Design Patterns](http://ui-patterns.com/patterns)
-- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
-
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [13 Days of Accessibility](http://a11ycalendar.kaseybon.com/)
+- [Accessibility Checklist for UX Designers](https://treehouse-project-downloads.s3.amazonaws.com/Accessibility-for-UX-Designers/UxDesigner_Checklist_Interactive2.pdf)

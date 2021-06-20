@@ -1,0 +1,24 @@
+# Notes - UX Design Patterns
+
+- Reusable solutions (such as **pagination**).
+- **UI Patterns and Persuasive Patterns:** UI patterns help users read or input information, while persuasive patterns help guide user behavior.
+- **UI Patterns:**
+  - Form patterns:
+    - What is optional/required
+    - Input validation feedback before submitting the form
+    - Calendar picker
+    - Drag and drop to rearrange items
+  - Content patterns:
+    - Image slider
+    - Tabs
+  - Data patterns:
+    - Table data:
+      - Sort by column
+      - Alternating row color
+      - Filtering
+  - Tutorialization patterns:
+    - Guided tour
+- **Persuasive Patterns:**
+  - Chunking (i.e. grid of food types)
+  - Sequential steps
+  - Gamification
