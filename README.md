@@ -5,9 +5,13 @@ This content covers different aspects of several concepts, resources and tools r
 ## 📑 Learning Topics
 
 - Equity, Diversity and Inclusion
-- Design Thinking
-- Design Systems
-- Design Patterns
+- Usability and Accessibility
+- Design Systems, Design Patterns and Design Thinking
+- Information Architecture
+- Handling feedback
+- User interviews
+- Typography
+- Prototyping
 
 ## :rocket: Personal Projects
 
