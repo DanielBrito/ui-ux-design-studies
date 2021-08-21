@@ -17,10 +17,15 @@ This content covers different aspects of several concepts, resources and tools r
 
 - [PolymApp](https://github.com/DanielBrito/polymapp)
 
-## 📚 Interesting Books
+## 📚 Books
 
 - [Don't Make Me Think (Steve Krug)](https://www.amazon.com.br/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG)
 - [User Centered Design (Travis Lowdermilk)](https://www.amazon.com/User-Centered-Design-Developers-User-Friendly-Applications/dp/1449359809)
+- [Redação Estratégica para UX (Torrey Podmajersky)](https://www.amazon.com.br/Reda%C3%A7%C3%A3o-Estrat%C3%A9gica-Para-Engajamento-Convers%C3%A3o/dp/8575228129)
+
+## 📄 Articles
+
+- [Guidelines for Accessible and Usable Web Sites: Observing Users Who Work With Screen Readers](https://redish.net/wp-content/uploads/Theorfanos_Redish_InteractionsPaperAuthorsVer.pdf)
 
 ## 🛠️ Tools
 
