@@ -19,10 +19,12 @@ This content covers different aspects of several concepts, resources and tools r
 
 ## 📚 Books
 
-- [Don't Make Me Think (Steve Krug)](https://www.amazon.com.br/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG)
+- [Não Me Faça Pensar - Revisited (Steve Krug)](https://www.amazon.com.br/N%C3%A3o-fa%C3%A7a-pensar-Steve-Krug/dp/8576088509)
 - [User Centered Design (Travis Lowdermilk)](https://www.amazon.com/User-Centered-Design-Developers-User-Friendly-Applications/dp/1449359809)
 - [Redação Estratégica para UX (Torrey Podmajersky)](https://www.amazon.com.br/Reda%C3%A7%C3%A3o-Estrat%C3%A9gica-Para-Engajamento-Convers%C3%A3o/dp/8575228129)
 - [UX Design (Will Grant)](https://www.amazon.com.br/Ux-Design-Definitivo-Melhores-Pr%C3%A1ticas/dp/8575227769)
+- [Design do Dia a Dia (Donald Norman)](https://www.amazon.com.br/Design-do-Dia/dp/8532520839)
+- [Leis da Psicologia Aplicadas a UX (Jon Yablonski)](https://www.amazon.com.br/Leis-Psicologia-Aplicadas-UX-Projetar/dp/6586057256)
 
 ## 📄 Articles
 
