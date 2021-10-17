@@ -13,24 +13,26 @@ This content covers different aspects of several concepts, resources and tools r
 - Typography
 - Prototyping
 
-## :rocket: Personal Projects
+## 🚀 Personal Projects
 
+- [Behance Portfolio](https://www.behance.net/danielhbrito)
 - [PolymApp](https://github.com/DanielBrito/polymapp)
 
-## 📚 Books
+## 📚 Interesting Books
 
-- [Não Me Faça Pensar - Revisited (Steve Krug)](https://www.amazon.com.br/N%C3%A3o-fa%C3%A7a-pensar-Steve-Krug/dp/8576088509)
-- [User Centered Design (Travis Lowdermilk)](https://www.amazon.com/User-Centered-Design-Developers-User-Friendly-Applications/dp/1449359809)
-- [Redação Estratégica para UX (Torrey Podmajersky)](https://www.amazon.com.br/Reda%C3%A7%C3%A3o-Estrat%C3%A9gica-Para-Engajamento-Convers%C3%A3o/dp/8575228129)
-- [UX Design (Will Grant)](https://www.amazon.com.br/Ux-Design-Definitivo-Melhores-Pr%C3%A1ticas/dp/8575227769)
-- [Design do Dia a Dia (Donald Norman)](https://www.amazon.com.br/Design-do-Dia/dp/8532520839)
-- [Leis da Psicologia Aplicadas a UX (Jon Yablonski)](https://www.amazon.com.br/Leis-Psicologia-Aplicadas-UX-Projetar/dp/6586057256)
+- [Não Me Faça Pensar - Revisitado](https://www.amazon.com.br/N%C3%A3o-fa%C3%A7a-pensar-Steve-Krug/dp/8576088509) (Steve Krug)
+- [User Centered Design](https://www.amazon.com/User-Centered-Design-Developers-User-Friendly-Applications/dp/1449359809) (Travis Lowdermilk)
+- [Redação Estratégica para UX](https://www.amazon.com.br/Reda%C3%A7%C3%A3o-Estrat%C3%A9gica-Para-Engajamento-Convers%C3%A3o/dp/8575228129) (Torrey Podmajersky)
+- [UX Design](https://www.amazon.com.br/Ux-Design-Definitivo-Melhores-Pr%C3%A1ticas/dp/8575227769) (Will Grant)
+- [Design do Dia a Dia](https://www.amazon.com.br/Design-do-Dia/dp/8532520839) (Donald Norman)
+- [Leis da Psicologia Aplicadas a UX](https://www.amazon.com.br/Leis-Psicologia-Aplicadas-UX-Projetar/dp/6586057256) (Jon Yablonski)
+- [Introdução e Boas Práticas em UX](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Boas-Pr%C3%A1ticas-Ux-Design/dp/8566250486) (Fabricio Teixeira)
 
-## 📄 Articles
+## 📄 Scientific Articles
 
 - [Guidelines for Accessible and Usable Web Sites: Observing Users Who Work With Screen Readers](https://redish.net/wp-content/uploads/Theorfanos_Redish_InteractionsPaperAuthorsVer.pdf)
 
-## 🛠️ Tools
+## 🛠️ Useful Tools
 
 - [Figma](https://www.figma.com)
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
@@ -38,7 +40,7 @@ This content covers different aspects of several concepts, resources and tools r
 - [Coblis - Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 
-## 🧰 Useful Resources
+## 🧰 Recommended Resources
 
 - [Design Resources for Developers](https://github.com/DanielBrito/design-resources-for-developers)
 - [Awesome Web Design](https://github.com/DanielBrito/awesome-web-design)
