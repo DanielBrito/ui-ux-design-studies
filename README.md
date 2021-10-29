@@ -50,3 +50,5 @@ This content covers different aspects of several concepts, resources and tools r
 - [13 Days of Accessibility](http://a11ycalendar.kaseybon.com/)
 - [Accessibility Checklist for UX Designers](https://treehouse-project-downloads.s3.amazonaws.com/Accessibility-for-UX-Designers/UxDesigner_Checklist_Interactive2.pdf)
 - [Noun Project](https://thenounproject.com/)
+- [The A11Y Project](https://www.a11yproject.com/)
+
