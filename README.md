@@ -52,3 +52,9 @@ This content covers different aspects of several concepts, resources and tools r
 - [Noun Project](https://thenounproject.com/)
 - [The A11Y Project](https://www.a11yproject.com/)
 
+
+## 💡 Inspiring Content
+
+- [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
+- [Top 100 Best Style Guides of Famous Brands](https://www.ebaqdesign.com/blog/style-guides)
+
