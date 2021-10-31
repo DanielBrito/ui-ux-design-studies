@@ -4,9 +4,11 @@ This content covers different aspects of several concepts, resources and tools r
 
 ## 📑 Learning Topics
 
-- Equity, Diversity and Inclusion
-- Usability and Accessibility
-- Design Systems, Design Patterns and Design Thinking
+- Diversity and Inclusion
+- Usability
+- Accessibility
+- Design Systems
+- Design Patterns
 - Information Architecture
 - Handling feedback
 - User interviews
@@ -16,7 +18,6 @@ This content covers different aspects of several concepts, resources and tools r
 ## 🚀 Personal Projects
 
 - [Behance Portfolio](https://www.behance.net/danielhbrito)
-- [PolymApp](https://github.com/DanielBrito/polymapp)
 
 ## 📚 Interesting Books
 
@@ -27,6 +28,7 @@ This content covers different aspects of several concepts, resources and tools r
 - [Design do Dia a Dia](https://www.amazon.com.br/Design-do-Dia/dp/8532520839) (Donald Norman)
 - [Leis da Psicologia Aplicadas a UX](https://www.amazon.com.br/Leis-Psicologia-Aplicadas-UX-Projetar/dp/6586057256) (Jon Yablonski)
 - [Introdução e Boas Práticas em UX](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Boas-Pr%C3%A1ticas-Ux-Design/dp/8566250486) (Fabricio Teixeira)
+- [Inclusive Design for a Digital World](https://www.amazon.com.br/gp/product/148425015X) (Regine Gilbert)
 
 ## 📄 Scientific Articles
 
@@ -39,6 +41,7 @@ This content covers different aspects of several concepts, resources and tools r
 - [Markup Validation Service](https://validator.w3.org/)
 - [Coblis - Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
+- [Color Contrast Accessibility Validator - A11Y](https://color.a11y.com/)
 
 ## 🧰 Recommended Resources
 
@@ -51,10 +54,12 @@ This content covers different aspects of several concepts, resources and tools r
 - [Accessibility Checklist for UX Designers](https://treehouse-project-downloads.s3.amazonaws.com/Accessibility-for-UX-Designers/UxDesigner_Checklist_Interactive2.pdf)
 - [Noun Project](https://thenounproject.com/)
 - [The A11Y Project](https://www.a11yproject.com/)
+- [Periodic Table of Semantics](https://gerardkcohen.github.io/periodic-table-of-semantics.html)
+- [Accessibility (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 
 
 ## 💡 Inspiring Content
 
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 - [Top 100 Best Style Guides of Famous Brands](https://www.ebaqdesign.com/blog/style-guides)
-
