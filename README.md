@@ -29,6 +29,7 @@ This content covers different aspects of several concepts, resources and tools r
 - [Leis da Psicologia Aplicadas a UX](https://www.amazon.com.br/Leis-Psicologia-Aplicadas-UX-Projetar/dp/6586057256) (Jon Yablonski)
 - [Introdução e Boas Práticas em UX](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Boas-Pr%C3%A1ticas-Ux-Design/dp/8566250486) (Fabricio Teixeira)
 - [Inclusive Design for a Digital World](https://www.amazon.com.br/gp/product/148425015X) (Regine Gilbert)
+- [Practical Web Inclusion and Accessibility](https://www.amazon.com.br/Practical-Web-Inclusion-Accessibility-Comprehensive/dp/1484254511) (Ashley Firth)
 
 ## 📄 Scientific Articles
 
@@ -57,7 +58,6 @@ This content covers different aspects of several concepts, resources and tools r
 - [Periodic Table of Semantics](https://gerardkcohen.github.io/periodic-table-of-semantics.html)
 - [Accessibility (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
-
 
 ## 💡 Inspiring Content
 
