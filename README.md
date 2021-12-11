@@ -46,8 +46,8 @@ This content covers different aspects of several concepts, resources and tools r
 
 ## 🧰 Recommended Resources
 
-- [Design Resources for Developers](https://github.com/DanielBrito/design-resources-for-developers)
-- [Awesome Web Design](https://github.com/DanielBrito/awesome-web-design)
+- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design)
 - [Curated List for UI/UX Designers](https://github.com/gregjw/ui-ux)
 - [Design Patterns](http://ui-patterns.com/patterns)
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
