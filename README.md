@@ -63,3 +63,7 @@ This content covers different aspects of several concepts, resources and tools r
 
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 - [Top 100 Best Style Guides of Famous Brands](https://www.ebaqdesign.com/blog/style-guides)
+- [Material Design](https://material.io/)
+- [Carbon Design System](https://www.carbondesignsystem.com/)
+- [Pajamas Desing System](https://design.gitlab.com/)
+
