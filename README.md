@@ -1,16 +1,18 @@
 # 👥 UI/UX Design
 
-This content covers different aspects of several concepts, resources and tools related to UI/UX Design from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
+This content covers different concepts, resources and tools related to UI/UX Design from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
 ## 📑 Learning Topics
 
-- Diversity and Inclusion
+- Diversity and inclusion
 - Usability
 - Accessibility
-- Design Systems
-- Design Patterns
-- Information Architecture
+- Design systems
+- Design patterns
+- Information architecture
 - Handling feedback
+- User research
+- Competitive research
 - User interviews
 - Typography
 - Prototyping
@@ -19,7 +21,7 @@ This content covers different aspects of several concepts, resources and tools r
 
 - [Behance Portfolio](https://www.behance.net/danielhbrito)
 
-## 📚 Interesting Books
+## 📚 Books
 
 - [Não Me Faça Pensar - Revisitado](https://www.amazon.com.br/N%C3%A3o-fa%C3%A7a-pensar-Steve-Krug/dp/8576088509) (Steve Krug)
 - [User Centered Design](https://www.amazon.com/User-Centered-Design-Developers-User-Friendly-Applications/dp/1449359809) (Travis Lowdermilk)
@@ -31,11 +33,11 @@ This content covers different aspects of several concepts, resources and tools r
 - [Inclusive Design for a Digital World](https://www.amazon.com.br/gp/product/148425015X) (Regine Gilbert)
 - [Practical Web Inclusion and Accessibility](https://www.amazon.com.br/Practical-Web-Inclusion-Accessibility-Comprehensive/dp/1484254511) (Ashley Firth)
 
-## 📄 Scientific Articles
+## 📄 Articles
 
 - [Guidelines for Accessible and Usable Web Sites: Observing Users Who Work With Screen Readers](https://redish.net/wp-content/uploads/Theorfanos_Redish_InteractionsPaperAuthorsVer.pdf)
 
-## 🛠️ Useful Tools
+## 🛠️ Tools
 
 - [Figma](https://www.figma.com)
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
@@ -44,7 +46,7 @@ This content covers different aspects of several concepts, resources and tools r
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 - [Color Contrast Accessibility Validator - A11Y](https://color.a11y.com/)
 
-## 🧰 Recommended Resources
+## 🧰 Resources
 
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design)
@@ -66,4 +68,3 @@ This content covers different aspects of several concepts, resources and tools r
 - [Material Design](https://material.io/)
 - [Carbon Design System](https://www.carbondesignsystem.com/)
 - [Pajamas Desing System](https://design.gitlab.com/)
-

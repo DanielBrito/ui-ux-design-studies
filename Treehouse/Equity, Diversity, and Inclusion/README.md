@@ -1,6 +1,6 @@
 # Equity, Diversity, and Inclusion - Notes
 
-In this seminar, we'll do an overview of gender and sexuality. We will break down these terms, discuss their importance, and how to be inclusive and equitable to these identities.
+_In this seminar, we'll do an overview of gender and sexuality. We will break down these terms, discuss their importance, and how to be inclusive and equitable to these identities._
 
 ---
 
