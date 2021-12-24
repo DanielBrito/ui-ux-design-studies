@@ -1,4 +1,4 @@
-# Notes - Intro to Design Thinking
+# Intro to Design Thinking - Notes
 
 ![Image](phases.png)
 

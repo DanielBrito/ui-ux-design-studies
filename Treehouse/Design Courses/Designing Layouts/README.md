@@ -1,4 +1,4 @@
-# Notes - Designing Layouts
+# Designing Layouts - Notes
 
 ## Spelling, Grammar, and Title Casing
 

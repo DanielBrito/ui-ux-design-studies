@@ -1,4 +1,4 @@
-# Notes - Practice Creating UX Content
+# Practice Creating UX Content - Notes
 
 ![Image](brand_personality.png)
 

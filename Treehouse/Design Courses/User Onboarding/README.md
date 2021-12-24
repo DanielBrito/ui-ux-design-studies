@@ -1,4 +1,4 @@
-# Notes - User Onboarding
+# User Onboarding - Notes
 
 ## What is User Onboarding?
 

@@ -1,4 +1,4 @@
-# Notes - Handling Feedback as a UX Designer
+# Handling Feedback as a UX Designer - Notes
 
 ## The Importance of Handling Feedback Well
 

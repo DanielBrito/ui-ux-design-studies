@@ -1,4 +1,4 @@
-# Notes - Hello UX
+# Hello UX - Notes
 
 ## Is UX Design Right For Me?
 

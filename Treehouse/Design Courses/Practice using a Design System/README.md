@@ -1,4 +1,4 @@
-# Notes - Practice using a Design System
+# Practice using a Design System - Notes
 
 Before you start any project, it's important to list the strengths and weaknesses of organizations with similar goals to your product. What will your site offer that competitors don't?
 

@@ -1,4 +1,4 @@
-# Notes - UX Content Strategy
+# UX Content Strategy - Notes
 
 _With so many websites and apps offering similar content and features, you need to provide a unique experience to compete - something memorable and enjoyable that resonates with your users. UX Content is how it’s done. From your home page and product descriptions down to your error messages, UX content can turn generic interactions into memorable experiences. By establishing a unique voice and personality, you can create an environment that welcomes, supports, and inspires users during their visit._
 

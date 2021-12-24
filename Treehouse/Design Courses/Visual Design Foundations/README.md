@@ -1,4 +1,4 @@
-# Notes - Visual Design Foundations
+# Visual Design Foundations - Notes
 
 ## The Elements and Principles of Art and Design
 

@@ -1,4 +1,4 @@
-# Notes - Accessibility For UX Designers
+# Accessibility For UX Designers - Notes
 
 ## What is Accessible Design?
 

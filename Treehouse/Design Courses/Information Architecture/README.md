@@ -1,4 +1,4 @@
-# Notes - Information Architecture
+# Information Architecture - Notes
 
 ## Defining Information Architecture
 

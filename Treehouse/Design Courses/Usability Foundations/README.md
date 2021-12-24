@@ -1,4 +1,4 @@
-# Notes - Usability Foundations
+# Usability Foundations - Notes
 
 ## Defining Usability
 

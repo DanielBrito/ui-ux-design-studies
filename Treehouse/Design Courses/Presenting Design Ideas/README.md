@@ -1,4 +1,4 @@
-# Notes - Presenting Design Ideas
+# Presenting Design Ideas - Notes
 
 ## Know your audience
 

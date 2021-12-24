@@ -1,4 +1,4 @@
-# Notes - Introduction to Product Design
+# Introduction to Product Design - Notes
 
 Over the last 10 years, design has proven to be essential to the success of a business. With the rise of the internet and more software being created, and as start-ups and tech companies realize the impact of design on the business and on digital products, there has been an increasing need for design. This course will help you understand and get familiar with product design, the role of design throughout product development and delivery, the different components of product design, and the process of designing digital products and experiences.
 

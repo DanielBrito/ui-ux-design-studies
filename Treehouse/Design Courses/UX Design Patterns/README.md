@@ -1,4 +1,4 @@
-# Notes - UX Design Patterns
+# UX Design Patterns - Notes
 
 - Reusable solutions (such as **pagination**).
 - **UI Patterns and Persuasive Patterns:** UI patterns help users read or input information, while persuasive patterns help guide user behavior.

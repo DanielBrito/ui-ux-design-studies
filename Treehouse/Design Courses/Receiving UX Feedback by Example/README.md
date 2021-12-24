@@ -1,4 +1,4 @@
-# Notes - Receiving UX Feedback by Example
+# Receiving UX Feedback by Example - Notes
 
 ## Resources
 

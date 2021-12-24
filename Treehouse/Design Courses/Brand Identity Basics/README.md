@@ -1,4 +1,4 @@
-# Notes - Brand Identity Basics
+# Brand Identity Basics - Notes
 
 In this course, we’ll take an in-depth look at the brand identity design process: from planning, strategizing, and research, all the way through the design and finalizing the project. We’ll also explore what exactly makes a brand image and why the process is so important. Branding can be challenging, but with preparation and expectations, we can create amazing work and continue to hone in on what generates the best results.
 

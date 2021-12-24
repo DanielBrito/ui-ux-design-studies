@@ -1,4 +1,4 @@
-# Notes - Design Criticism
+# Design Criticism - Notes
 
 ## What is a critique?
 

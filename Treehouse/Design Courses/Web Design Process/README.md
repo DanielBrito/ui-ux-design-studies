@@ -1,4 +1,4 @@
-# Notes - Web Design Process
+# Web Design Process - Notes
 
 ## Setting Goals
 
