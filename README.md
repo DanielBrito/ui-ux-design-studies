@@ -32,6 +32,7 @@ This content covers different concepts, resources and tools related to UI/UX Des
 - [Introdução e Boas Práticas em UX](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Boas-Pr%C3%A1ticas-Ux-Design/dp/8566250486) (Fabricio Teixeira)
 - [Inclusive Design for a Digital World](https://www.amazon.com.br/gp/product/148425015X) (Regine Gilbert)
 - [Practical Web Inclusion and Accessibility](https://www.amazon.com.br/Practical-Web-Inclusion-Accessibility-Comprehensive/dp/1484254511) (Ashley Firth)
+- [UX Strategy: Product Strategy Techniques for Devising Innovative Digital Solutions](https://www.amazon.com.br/UX-Strategy-Techniques-Innovative-Solutions/dp/1492052434) (Jaime Levy)
 
 ## 📄 Articles
 
