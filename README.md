@@ -17,7 +17,7 @@ This content covers different concepts, resources and tools related to UI/UX Des
 - Typography
 - Prototyping
 
-## 🚀 Personal Projects
+## 🚀 Projects
 
 - [Behance Portfolio](https://www.behance.net/danielhbrito)
 
