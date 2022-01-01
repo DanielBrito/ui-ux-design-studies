@@ -69,3 +69,7 @@ This content covers different concepts, resources and tools related to UI/UX Des
 - [Material Design](https://material.io/)
 - [Carbon Design System](https://www.carbondesignsystem.com/)
 - [Pajamas Desing System](https://design.gitlab.com/)
+
+## :rocket: Design Challenges
+
+- [Daily UI](https://www.dailyui.co/)
