@@ -2,7 +2,7 @@
 
 This content covers different concepts, resources and tools related to UI/UX Design from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
-## 📑 Learning Topics
+## 📑 Topics
 
 - Diversity and inclusion
 - Usability
@@ -38,7 +38,7 @@ This content covers different concepts, resources and tools related to UI/UX Des
 
 - [Guidelines for Accessible and Usable Web Sites: Observing Users Who Work With Screen Readers](https://redish.net/wp-content/uploads/Theorfanos_Redish_InteractionsPaperAuthorsVer.pdf)
 
-## 🛠️ Tools
+## 🧰 Tools
 
 - [Figma](https://www.figma.com)
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
@@ -47,7 +47,7 @@ This content covers different concepts, resources and tools related to UI/UX Des
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 - [Color Contrast Accessibility Validator - A11Y](https://color.a11y.com/)
 
-## 🧰 Resources
+## :card_file_box: Resources
 
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design)
@@ -62,7 +62,7 @@ This content covers different concepts, resources and tools related to UI/UX Des
 - [Accessibility (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 
-## 💡 Inspiring Content
+## 💡 Inspiration
 
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 - [Top 100 Best Style Guides of Famous Brands](https://www.ebaqdesign.com/blog/style-guides)
