@@ -65,10 +65,10 @@ This content covers different concepts, resources and tools related to UI/UX Des
 ## 💡 Inspiration
 
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
-- [Top 100 Best Style Guides of Famous Brands](https://www.ebaqdesign.com/blog/style-guides)
 - [Material Design](https://material.io/)
 - [Carbon Design System](https://www.carbondesignsystem.com/)
 - [Pajamas Desing System](https://design.gitlab.com/)
+- [Design Systems Repo](https://designsystemsrepo.com/design-systems)
 
 ## :rocket: Design Challenges
 
