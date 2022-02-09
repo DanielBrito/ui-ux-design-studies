@@ -70,6 +70,6 @@ This content covers different concepts, resources and tools related to UI/UX Des
 - [Pajamas Desing System](https://design.gitlab.com/)
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems)
 
-## :rocket: Design Challenges
+## ⚔️ Design Challenges
 
 - [Daily UI](https://www.dailyui.co/)
