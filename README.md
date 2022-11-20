@@ -73,3 +73,5 @@ This content covers different concepts, resources and tools related to UI/UX Des
 ## ⚔️ Design Challenges
 
 - [Daily UI](https://www.dailyui.co/)
+- [A11yphant](https://a11yphant.com/)
+
